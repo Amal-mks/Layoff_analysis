@@ -8,6 +8,7 @@ As a fresher Data Analyst, this project served as a hands-on exercise to practic
 
 ## Data Source
 *   The dataset used is `layoffs.csv`, which contains information about layoffs from various companies worldwide.
+*   Data source contained 1,995 rows of data post cleaning
   *   **Source:** The original dataset was acquired from AlexTheAnalyst's GitHub.(https://github.com/AlexTheAnalyst)
 
 ## Tools Used
@@ -25,11 +26,12 @@ As a fresher Data Analyst, this project served as a hands-on exercise to practic
 *   The country with the highest concentration of layoffs was **[United States]**, accounting for approximately **67%** of all layoffs in the dataset.
 *   The year 2022 saw the most layoffs with total layoffs crossing **`160000`**.
 *   The industry that saw the most amount of layoffs was the **`consumer`** industry, making it the the industry that was most affected by the pandemic.
-*   
 
 ## Files in this Repository
-*   `layoffs.csv`: The dataset used for the analysis.
-*   `README.md`: Project documentation (this file).
+*   `layoffs.csv`: The dataset used for the analysis
+*   `layoff analysis.sql`: Queries for analysis and insights
+*   `datacln.sql`: Data cleaning queries
+*   `README.md`: Project documentation (this file)
 
 ## Acknowledgments
 *   Inspired by the SQL tutorial by **AlexTheAnalyst**(https://www.youtube.com/watch?v=QYd-RtK58VQ).
