@@ -8,7 +8,7 @@ As a fresher Data Analyst, this project served as a hands-on exercise to practic
 
 ## Data Source
 *   The dataset used is `layoffs.csv`, which contains information about layoffs from various companies worldwide.
-  *   **Source:** The original dataset was acquired from AlexTheAnalyst's GitHub.(https://github.com/AlexTheAnalys)
+  *   **Source:** The original dataset was acquired from AlexTheAnalyst's GitHub.(https://github.com/AlexTheAnalyst)
 
 ## Tools Used
 *   **SQL:** Data cleaning, transformation, and analysis
@@ -33,4 +33,4 @@ As a fresher Data Analyst, this project served as a hands-on exercise to practic
 
 ## Acknowledgments
 *   Inspired by the SQL tutorial by **AlexTheAnalyst**(https://www.youtube.com/watch?v=QYd-RtK58VQ).
-*   AlexTheAnalyst Github: https://github.com/AlexTheAnalys
+*   AlexTheAnalyst Github: https://github.com/AlexTheAnalyst
